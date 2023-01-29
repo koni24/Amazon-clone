@@ -1,0 +1,95 @@
+.navbar_component{
+    width: 100vw;
+    height: 60px;
+    background-color: #131A22;
+    display: flex;
+}
+.navbar_logo{
+    background: url('https://ik.imagekit.io/amazon1234/sprite_350x_q7QZkJCVl.png?updatedAt=1627121934264') no-repeat -9px -50px;
+	width: 98px;
+	height: 31px;
+    margin: 18px;
+}
+.navbar_locator{
+    display: flex;
+    margin: 20px 0px;
+}
+.navbar_location{
+    color: white;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.navbar_locatorImage {
+    background: url('https://ik.imagekit.io/amazon1234/sprite_350x_q7QZkJCVl.png?updatedAt=1627121934264') no-repeat -70px -378px;
+	width: 16px;
+	height: 18px;
+}
+.navbar_searchcomponent{
+    display: flex;
+    margin-left: 72px;
+}
+.nav_dropdown {
+    width: 60px;
+    height: 44px;
+    margin-top: 8px;
+    background-color: #e6e5e5;
+    border-radius: 5px 0px 0px 5px;
+    text-align-last: center;
+}
+.navbar_searchbox{
+    width: 640px;
+    height: 38px;
+    margin-top: 8px;
+}
+.navbar_searchboxdiv {
+    background-color: #FEBE68;
+    height: 43px;
+    width: 48px;
+    border-radius: 0px 5px 5px 0px;
+    margin-top: 8px;
+}
+.navbar_searchicon {
+    background: url('https://ik.imagekit.io/amazon1234/sprite_350x_q7QZkJCVl.png?updatedAt=1627121934264') no-repeat -9px -289px;
+	width: 23px;
+	height: 23px;
+    margin: 12px;
+}
+
+.navbar_signin{
+    width: 120px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.navbar_returns{
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.navbar_text{
+    color: white
+}
+
+.navbar_cart{
+    display: flex;
+    margin-top: 15px;
+}
+.cart_image{
+    background: url('https://ik.imagekit.io/amazon1234/sprite_350x_q7QZkJCVl.png?updatedAt=1627121934264') no-repeat -217px -336px;
+    width: 43px;
+	height: 30px;    
+}
+
+.navbar_text_cart{
+    margin-top: 10px;
+    font-weight: bold;
+    position: relative;
+    left: -5px;
+}
+.cart_item{
+    font-weight: bold;
+    position: relative;
+    left: -23px;
+    top: -3px;
+    color: #f0bb05;
+}
