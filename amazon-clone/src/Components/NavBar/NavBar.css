@@ -93,3 +93,16 @@
     top: -3px;
     color: #f0bb05;
 }
+.navbar_footer{
+    width: 100vw;
+    height: 30px;
+    background-color: #22303E;
+    color: white;
+    display: flex;
+}
+
+.navbar_footer_text{
+    margin: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
