@@ -44,7 +44,7 @@
 }
 .navbar_searchboxdiv {
     background-color: #FEBE68;
-    height: 43px;
+    height: 44px;
     width: 48px;
     border-radius: 0px 5px 5px 0px;
     margin-top: 8px;
@@ -58,12 +58,12 @@
 
 .navbar_signin{
     width: 120px;
-    margin-top: 10px;
-    margin-left: 50px;
+    margin-top: 13px;
+    margin-left: 60px;
 }
 .navbar_returns{
     width: 80px;
-    margin-top: 10px;
+    margin-top: 13px;
     margin-left: 10px;
 }
 .navbar_text{
@@ -84,7 +84,7 @@
     margin-top: 10px;
     font-weight: bold;
     position: relative;
-    left: -5px;
+    left: -10px;
 }
 .cart_item{
     font-weight: bold;
