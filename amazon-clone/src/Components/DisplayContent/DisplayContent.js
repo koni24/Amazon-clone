@@ -1,10 +1,10 @@
 import React from 'react'
 import LeftSidePanel from './LeftSide/LeftSidePanel';
-import RightSidePanel from './RightSide/RightSidePanel';
+import RightSidePanel from './RightSide/RightSidePanel.js';
 
 function DisplayContent(props) {
   return (
-    <div>
+    <div style={{display :'flex'}}>
       <div>
         <LeftSidePanel/>
       </div>
